@@ -1,8 +1,6 @@
 #https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,soduzw.com
-DOMAIN-SUFFIX,sjj-dot.cn
-DOMAIN-SUFFIX,sjj-dot.xyz
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
@@ -15,3 +13,5 @@ IP-CIDR,183.206.0.0/15
 IP-CIDR,223.5.5.5/32
 IP-CIDR,27.36.0.0/14
 IP-CIDR,183.238.66.0/24
+DOMAIN-SUFFIX,sub.sjj-dot.xyz
+DOMAIN-SUFFIX,v6.sjj-dot.xyz
